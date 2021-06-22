@@ -35,11 +35,11 @@ Mengaktifkan Mode Debugging pada Codeigniter
 
 ![whoops](https://user-images.githubusercontent.com/56381081/122051551-edd5ae00-ce0e-11eb-8bc8-94a98b439ac8.png)
 
-Contoh kesalahan
+## Contoh kesalahan
 
 ![4 (2)](https://user-images.githubusercontent.com/56381081/122946547-a79ac480-d3a3-11eb-8352-e2a5273d3245.png)
 
-Membuat Routing
+## Membuat Routing
 
 ![6](https://user-images.githubusercontent.com/56381081/122946552-a9648800-d3a3-11eb-8912-0cc72ac22db9.jpg)
 
@@ -47,7 +47,7 @@ Ketika di akses masih eror
 
 ![1](https://user-images.githubusercontent.com/56381081/122946559-a9fd1e80-d3a3-11eb-99f7-88a9576a16fa.jpg)
 
-Membuat Controller
+## Membuat Controller
 
 ![5](https://user-images.githubusercontent.com/56381081/122946550-a8cbf180-d3a3-11eb-9e6f-2e573549e380.jpg)
 
@@ -55,6 +55,24 @@ Membuat Controller
 
 ![3](https://user-images.githubusercontent.com/56381081/122946537-a5d10100-d3a3-11eb-8037-847ffd236688.jpg)
 
-Membuat View
+## Membuat View
 
 ![7](https://user-images.githubusercontent.com/56381081/122948117-dd8c7880-d3a4-11eb-9251-ae7fc02701da.jpg)
+
+# TUGAS 12 : CRUD
+
+## 1. Membuat tampilan artikel
+![2021-06-22 (11)](https://user-images.githubusercontent.com/81462436/122957733-6c50c380-d3ac-11eb-93a8-724f1b15397a.png)
+
+## 2. Membuat tampilan detail artikel
+![2021-06-22 (5)](https://user-images.githubusercontent.com/81462436/122956306-162f5080-d3ab-11eb-8331-dcf5a37d119c.png)
+
+## 3. Menampilkan Tampilan menu admin
+![2021-06-22 (7)](https://user-images.githubusercontent.com/81462436/122956311-17607d80-d3ab-11eb-99be-6627e00ad3e4.png)
+
+## 4. Menambahkan Artikel pada menu admin
+![2021-06-22 (13)](https://user-images.githubusercontent.com/81462436/122960742-ecc3f400-d3ad-11eb-98b5-ec07d3674f9e.png)
+![2021-06-22 (12)](https://user-images.githubusercontent.com/81462436/122960498-aa021c00-d3ad-11eb-94e9-3cbe13d77c1b.png)
+
+## 5. Mengubah Data pada artikel 2
+![2021-06-22 (14)](https://user-images.githubusercontent.com/81462436/122961481-a327d900-d3ae-11eb-92d1-57fa5c332463.png)
