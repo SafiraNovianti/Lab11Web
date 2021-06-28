@@ -76,3 +76,20 @@ Ketika di akses masih eror
 
 ## 5. Mengubah Data pada artikel 2
 ![2021-06-22 (14)](https://user-images.githubusercontent.com/81462436/122961481-a327d900-d3ae-11eb-92d1-57fa5c332463.png)
+
+# TUGAS 13 : MODUL LOGIN
+
+## 1. Membuat Tabel User
+![2021-06-28](https://user-images.githubusercontent.com/81462436/123661465-c0e9b800-d85e-11eb-8597-d0e43f2ea6a7.png)
+## 2. Membuat DatabaseSeeder 
+![2021-06-27](https://user-images.githubusercontent.com/81462436/123661443-bd563100-d85e-11eb-8fb3-4356539fbf66.png)
+## 3. Tampilan Awal Menu LogIn
+![2021-06-28 (1)](https://user-images.githubusercontent.com/81462436/123661447-be875e00-d85e-11eb-9d64-2fb68f0ce7f6.png)
+## 4. Mencoba mengakses Masuk ke dalam menu admin dengan memasukan email dan password
+![2021-06-28 (2)](https://user-images.githubusercontent.com/81462436/123661455-bf1ff480-d85e-11eb-8dd1-ae014c61304a.png)
+## 5. Masuk ke tampilan setelah LogIn
+![2021-06-28 (3)](https://user-images.githubusercontent.com/81462436/123661457-bfb88b00-d85e-11eb-9656-45e3560d05b3.png)
+## 6. Tampilan ketika proses Logout
+![2021-06-28 (4)](https://user-images.githubusercontent.com/81462436/123661460-c0512180-d85e-11eb-9a7a-c6e30277b802.png)
+## 7. Dan akan kembali ke menu LogIn
+![2021-06-28 (1)](https://user-images.githubusercontent.com/81462436/123661447-be875e00-d85e-11eb-9d64-2fb68f0ce7f6.png)
