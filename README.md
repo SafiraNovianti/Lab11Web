@@ -93,3 +93,12 @@ Ketika di akses masih eror
 ![2021-06-28 (4)](https://user-images.githubusercontent.com/81462436/123661460-c0512180-d85e-11eb-9a7a-c6e30277b802.png)
 ## 7. Dan akan kembali ke menu LogIn
 ![2021-06-28 (1)](https://user-images.githubusercontent.com/81462436/123661447-be875e00-d85e-11eb-9d64-2fb68f0ce7f6.png)
+
+# Tugas 14 : Pagination dan Pencarian
+
+## 1. Tampilan Pagination
+![2021-07-05 (1)](https://user-images.githubusercontent.com/81462436/124498309-53053980-dde6-11eb-963e-0d6e915922b9.png)
+## 2. Tampilan Pencarian
+![2021-07-05 (9)](https://user-images.githubusercontent.com/81462436/124500210-8eedce00-dde9-11eb-861e-734f68f154c9.png)
+## 3. Tampilan Ketika sudah di upload gambar
+![2021-07-05 (5)](https://user-images.githubusercontent.com/81462436/124498331-5ac4de00-dde6-11eb-8e65-8f82cb548596.png)
